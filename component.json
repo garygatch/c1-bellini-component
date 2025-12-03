@@ -1,0 +1,24 @@
+{
+  "type": "component",
+  "name": "c1",
+  "children": [],
+  "variables": [],
+  "bindings": [],
+  "modules": [],
+  "styles": [],
+  "directories": {
+    "assets": [
+      {
+        "id": "jws47KVfdYsDO9h1UYZ5E",
+        "name": "a"
+      },
+      {
+        "id": "4DyludS51LVlaKAc1eXYl",
+        "name": "b"
+      }
+    ],
+    "components": [],
+    "scripts": [],
+    "stylesheets": []
+  }
+}
